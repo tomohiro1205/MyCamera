@@ -16,6 +16,7 @@
 		4C6297802B799D530008FC46 /* MyCameraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C62977F2B799D530008FC46 /* MyCameraUITestsLaunchTests.swift */; };
 		4C9430DE2B7AFA0600014EF7 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9430DD2B7AFA0600014EF7 /* ImagePickerView.swift */; };
 		4C9430E02B7B8F3200014EF7 /* EffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9430DF2B7B8F3200014EF7 /* EffectView.swift */; };
+		4C9430E22B7BAE5B00014EF7 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9430E12B7BAE5B00014EF7 /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		4C62977F2B799D530008FC46 /* MyCameraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCameraUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4C9430DD2B7AFA0600014EF7 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		4C9430DF2B7B8F3200014EF7 /* EffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectView.swift; sourceTree = "<group>"; };
+		4C9430E12B7BAE5B00014EF7 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				4C6297622B799D510008FC46 /* MyCameraApp.swift */,
 				4C6297642B799D510008FC46 /* ContentView.swift */,
+				4C9430E12B7BAE5B00014EF7 /* UIImageExtension.swift */,
 				4C9430DF2B7B8F3200014EF7 /* EffectView.swift */,
 				4C9430DD2B7AFA0600014EF7 /* ImagePickerView.swift */,
 				4C6297662B799D530008FC46 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				4C6297652B799D510008FC46 /* ContentView.swift in Sources */,
 				4C9430DE2B7AFA0600014EF7 /* ImagePickerView.swift in Sources */,
 				4C6297632B799D510008FC46 /* MyCameraApp.swift in Sources */,
+				4C9430E22B7BAE5B00014EF7 /* UIImageExtension.swift in Sources */,
 				4C9430E02B7B8F3200014EF7 /* EffectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
